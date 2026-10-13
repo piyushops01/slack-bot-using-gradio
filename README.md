@@ -163,7 +163,7 @@ If `bot.py` points to a hosted Gradio app instead, make sure its configured endp
 
 **Piyush**
 
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [piyushops01](https://github.com/piyushops01)
 
 ---
 
